@@ -28,3 +28,5 @@ string digitada logo apos o -m.
 **GIT CONFIG --list** - Lista todas as configurações que foram feitas na sua maquina para o GIT
 
 **GII CONFIG --GLOBAL --UNSET** - Retira o atributo definido após o unset, para retirar a configuração do email deve ser digitado --> git config --global --unset user.email
+
+**GIT CONFIG --GLOBAL user.email "seu email"**
