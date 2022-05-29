@@ -9,7 +9,7 @@
     6 - Colocar tres hashtag ###### antes do texto em marckdown é o mesmo que colocar a tab <h6> no HTML
 
 ## Colocar em **negrito**.
-###### Deve ser colocado dois asteriscos antes e dpois depois da **l**etras, **palafra** ou **uma frase**. 
+###### Deve ser colocado dois asteriscos antes e depois da **l**etras, **palafra** ou **uma frase**. 
 **Negritando dados com MarckDown - Colcoar dois asteriscos antes e depois do testo**
 
 ## Colocar em   _italico_ .
@@ -17,9 +17,14 @@
 
 ## Comandos base do GIT
 **GIT INIT** - Inicializa o git
+
 **GIT ADD** - Adiciona os arquivos - Inidica que esse arquivo será controlado pelo GIT
+
 **GIT STATUS** - Apresenta como esta o estado do arquivo
+
 **GIT COMMIT -m** - Utilizado para commitar um arquivo e indicar quais modificações foram feitas atravez da 
-    string digitada logo apos o -m.
+string digitada logo apos o -m.
+
 **GIT CONFIG --list** - Lista todas as configurações que foram feitas na sua maquina para o GIT
+
 **GII CONFIG --GLOBAL --UNSET** - Retira o atributo definido após o unset, para retirar a configuração do email deve ser digitado --> git config --global --unset user.email
