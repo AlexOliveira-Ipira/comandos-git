@@ -9,11 +9,11 @@
     6 - Colocar tres hashtag ###### antes do texto em marckdown é o mesmo que colocar a tab <h6> no HTML
 
 ## Colocar em **negrito**.
-    ###### Deve ser colocado dois asteriscos antes e dpois depois da **l**etra, **palafra** ou **uma frase**. 
-    **Negritando dados com MarckDown - Colcoar dois asteriscos antes e depois do testo**
+###### Deve ser colocado dois asteriscos antes e dpois depois da **l**etras, **palafra** ou **uma frase**. 
+**Negritando dados com MarckDown - Colcoar dois asteriscos antes e depois do testo**
 
 ## Colocar em   _italico_ .
-    ######Colcoar um anderlaine no inicio e outro no fim da _l_etra, _palavra_ ou _uma frase_.
+###### Colcoar um anderlaine no inicio e outro no fim da _l_etra, _palavra_ ou _uma frase_.
 
 ## Comandos base do GIT
 **GIT INIT** - Inicializa o git
