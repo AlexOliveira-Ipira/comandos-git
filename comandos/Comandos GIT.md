@@ -36,12 +36,16 @@ string digitada logo apos o -m.
 
 **GIT CONFIG --GLOBAL user.name "NOme cadastrado no GIT** -  Acrescenta o nome as configurações local.
 
-#Removendo pastas ou arquivos no GIT
+# Removendo pastas ou arquivos no GIT
+
     1 - Primeiro cetificar se o repositório está sincronizado:
         git pull origin master - "OU a branch remota"
+
     2 - Remover a pasta ou arquivo local
         git rm -r "Arquivo"
+
     3 - Fazer o commit:
         git commit -m "Removido ..."
+        
     4 - Sincronizar com o repositório
         git push origin master - "Ou a branch que deseja subir o repo"
