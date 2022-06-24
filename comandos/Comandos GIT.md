@@ -36,7 +36,7 @@ string digitada logo apos o -m.
 
 **GIT CONFIG --GLOBAL user.name "NOme cadastrado no GIT** -  Acrescenta o nome as configurações local.
 
-# Removendo pastas ou arquivos no GIT
+#Removendo pastas ou arquivos no GIT
 
     1 - Primeiro cetificar se o repositório está sincronizado:
         git pull origin master - "OU a branch remota"
@@ -49,3 +49,13 @@ string digitada logo apos o -m.
         
     4 - Sincronizar com o repositório
         git push origin master - "Ou a branch que deseja subir o repo"
+
+
+#Criar Senha SSH e configurar
+
+    1 - Criar a senha com o comando:
+        ssh-keygen -t ed25519 -C "your_email@example.com"
+    
+    2 - Acessar a pasta que a chave foi criada e edicar o arquivo .pub
+
+    3 - Abrir o GIT Config e Incluir a chave.
